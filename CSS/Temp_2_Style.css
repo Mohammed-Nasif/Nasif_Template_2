@@ -1512,6 +1512,7 @@ input::-webkit-inner-spin-button {
     margin-top: 20px;
     margin-bottom: 20px;
     transition: 0.1s linear;
+    cursor: pointer;
 }
 .more-info .container div:first-child > div > i:nth-child(1):hover{ 
     background-color: rgb(12, 87, 248);
